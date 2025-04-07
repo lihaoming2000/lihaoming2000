@@ -11,7 +11,8 @@ Before B-school and sales life, I was that guy who:
 -  Helped Microsoft land Azure in China abd rebuilt engineering teams from 7 to 23.
 
 Still hands-on with:
--  Python, Node.js, Claude + MCP (I am still on VS for the sake of my monthly MSFT credits - assuming that is my retirement grant from ex-employer)  
+-  Python, Node.js, Claude + MCP
+-  Still on VS to use my monthly MSFT credits -  retirement grant from ex-employer  
 
 ###  Currently
 
