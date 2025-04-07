@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hey, I'm Stephen
 
-<!--
-**lihaoming2000/lihaoming2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a coder at heart, business hacker by trade — currently deep-diving into AI, startups, and all things infra at Stanford.
 
-Here are some ideas to get you started:
+### 🧠 My tech journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before B-school and sales life, I was that guy who:
+- 💻 Built a Napster-like file-sharing app in 24 hours (won a quarter million-RMB prize 🏆 to fund my CS graduate degree)
+- 🧠 Supposed to be a coder but hired by Cisco as a trainee - they bought my soul to get into the dark side of the world. 
+- 🧪 Launched a Cisco data center switch from $0 to $200M in revenue as a PM
+- ☁️ Helped Microsoft land Azure in China
+- 🔧 Rebuilt engineering teams to scale 40% of MSFT's cloud biz in the region
+
+Still hands-on with:
+- MCP, Azure, Python and Node.js
+
+### 🎯 Currently
+
+📍 Palo Alto  
+🎓 Sloan Fellow @ Stanford GSB  
+🥑 Surviving on air fryer meals  
+⚽ Liverpool fan, every year is the year
