@@ -1,6 +1,6 @@
 ##  Hey, I'm Stephen
 
-I'm a coder at heart, business hacker by trade — currently deep-diving into AI, startups, and all things infra at Stanford.
+I'm a coder at heart, business hacker by trade — currently deep-diving into all things AI infra at Stanford.
 
 ###  My tech journey
 
