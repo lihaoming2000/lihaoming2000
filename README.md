@@ -1,6 +1,6 @@
 ##  Hey, I'm Stephen
 
-Coder at heart, business man by trade — currently deep-diving into AI infra at Stanford.
+Coder at heart, business man by trade — currently building AI infra at GMI Cloud.
 
 ###  My tech journey
 
